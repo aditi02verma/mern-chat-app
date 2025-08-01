@@ -17,7 +17,14 @@ Database: Mongo DB
 
 Demo
 
+
+
+
 https://talk-a-tive.herokuapp.com/<img width="1112" height="524" alt="Screen Shot 2025-08-01 at 7 13 49 PM" src="https://github.com/user-attachments/assets/39423196-fbfc-47ff-b4cd-48c628d9bab8" />
+
+
+
+
 
 
 
